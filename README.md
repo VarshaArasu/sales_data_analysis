@@ -10,19 +10,16 @@ This project analyzes sales data to identify trends, revenue drivers, and key pe
 ## Tools
 - Python (pandas, numpy, matplotlib, seaborn)  
 - SQL  
-- Tableau  
 
 ## What I Did
 - Cleaned and analyzed the sales dataset  
 - Identified seasonal trends and top-performing regions and product categories  
-- Built interactive Tableau dashboards to track revenue and KPIs weekly  
 
 ## Repository Contents
 | File | Description |
 |------|-------------|
 | `sales_data_cleaning.py` | Python script for data cleaning and analysis |
 | `sales_analysis.sql` | SQL queries for aggregation and insights |
-| `sales_dashboard.twbx` | Tableau dashboard file |
 | `sales_dataset.csv` | Sample sales dataset |
 
 ## Outcome
